@@ -1,1 +1,1 @@
-# JS-Problems
+# Maths Formulas/Problems in JavaScript
